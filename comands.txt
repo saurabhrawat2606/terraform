@@ -1,0 +1,1 @@
+aws ec2 stop-instances --region ap-south-1 --instance-ids i-0143ca35c74dad35b  -->> Stop instance
